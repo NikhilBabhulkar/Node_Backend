@@ -6,3 +6,8 @@ An user can register and login as well the session of use get handdled using bac
 
 ## Services i provided
 
+#### User Registration 
+#### User Login
+#### Session Managment of Users
+#### Forget Password Using email varification
+#### Change Password
