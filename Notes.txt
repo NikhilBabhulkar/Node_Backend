@@ -1,0 +1,4 @@
+packages 
+multer - for uploding the files 
+body-parser - for getting the files
+bcryptjs - for the encryption purpose
